@@ -1,8 +1,13 @@
 ## Hi there 👋
-🌱 I’m currently learning ... 
- <p>This is my website.</p>
-######**hey**
- 
+## What the hell
+**bold**
+## _ok buddy_
+## ~~Im sorry my bad~~
+## **I have very important _information_ that cant get out** 
+## ***Real Madrid is the best football team***
+## Why is this <sub> text </sub> broken
+his word thinks its <sup> above </sup> everyone else
+
 <!--
 **zahed267/zahed267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
